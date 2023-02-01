@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+int main() {
+    printf("hiwwwwww22");
+    return 0;
+}
